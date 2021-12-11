@@ -1,3 +1,4 @@
+#1.Install pyttsx3 and PyPDF2 in pycharm terminal#
 import pyttsx3
 import PyPDF2
 book = open('CNN_Basic.pdf', 'rb')
